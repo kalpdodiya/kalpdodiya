@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kalp Dodiya 👋
 
-<!--
-**kalpdodiya/kalpdodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student at LJ University · Open to internships
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 **Currently open to internship opportunities**
+
+---
+
+## Skills
+
+**Languages**
+`Java` `Python` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Libraries**
+`React` `Node.js` `Express`
+
+**Core CS**
+`Data Structures` `DBMS`
+
+---
+
+## Projects
+
+### 🏥 Medical Store Management System
+A backend system to manage inventory, billing, and stock for a medical store — built in Java with a focus on clean OOP design and data handling.
+
+**Tech:** Java · OOP · Backend
+
+---
+
+### 👕 Clothing Store Website
+A full-stack e-commerce web app for a clothing store — handling product listings, cart, and user flow end to end.
+
+**Tech:** Python · Full Stack · Web
+
+---
