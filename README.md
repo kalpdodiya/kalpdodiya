@@ -4,7 +4,7 @@ B.Tech student at LJ University
 
 ---
 
-🟢 **Currently open to internship opportunities**
+🟢 **Currently open to opportunities**
 
 ---
 
@@ -36,3 +36,8 @@ A full-stack e-commerce web app for a clothing store — handling product listin
 **Tech:** Python · Full Stack · Web
 
 ---
+
+## Connect
+
+- 📧 kalpdodiya99@gmail.com
+- 💼 LinkedIn — Kalp Dodiya
