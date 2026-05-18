@@ -1,6 +1,6 @@
 # Hi, I'm Kalp Dodiya 👋
 
-B.Tech student at LJ University · Open to internships
+B.Tech student at LJ University
 
 ---
 
